@@ -1,13 +1,12 @@
 {
-    "version":  "2.2.2",
-    "title":  "QLTV 2.2.2",
+    "version":  "2.2.0",
+    "title":  "QLTV 2.2.0",
     "release_date":  "2026-07-22",
-    "download_url":  "https://github.com/Mentornoob/QLTV-Updates/releases/download/v2.2.2/QLTV_Setup_v2.2.2.exe",
-    "sha256":  "c6868011eca7ac34fc423176b6ed7750fe3ca165c33ed14832a4635b53711e88",
-    "checksum_url":  "https://github.com/Mentornoob/QLTV-Updates/releases/download/v2.2.2/QLTV_Setup_v2.2.2.exe.sha256",
-    "source_commit":  "0335342d99b75edce3298c9eea897834cbddde3b",
+    "download_url":  "https://github.com/Mentornoob/QLTV-Updates/releases/download/v2.2.0/QLTV_Setup_v2.2.0.exe",
+    "sha256":  "b380f71cd835d365666cf274bfa3dc957c3157fd71852f280e25cd0aa3f18a87",
+    "checksum_url":  "https://github.com/Mentornoob/QLTV-Updates/releases/download/v2.2.0/QLTV_Setup_v2.2.0.exe.sha256",
+    "source_commit":  "ab0bc6a4794832f3d00c8d6b7b83e4bef52e45ea",
     "notes":  [
-                  "Sửa lỗi bộ gỡ cài đặt hiển thị treo ở 0% khi xóa CSDL MySQL dung lượng lớn.",
-                  "Chuyển việc xóa dữ liệu MySQL sang tiến trình chính để hiển thị tiến độ; vẫn giữ nguyên BACKUP_DATA."
+                  "Thêm mượn/trả bán tự động; bổ sung giao diện sáng/tối, tùy chỉnh hiển thị và bố cục 16:9; tối ưu tra cứu 500 đầu sách, sửa lỗi treo; cải thiện menu và phím tắt; nâng cao an toàn dữ liệu, migration MySQL và kiểm thử tự động."
               ]
 }
