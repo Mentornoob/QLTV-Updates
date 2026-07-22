@@ -1,16 +1,12 @@
 {
-    "version":  "2.1.0",
-    "title":  "QLTV 2.1.0",
-    "release_date":  "2026-07-21",
-    "download_url":  "https://github.com/Mentornoob/QLTV-Updates/releases/download/v2.1.0/QLTV_Setup_v2.1.0.exe",
-    "sha256":  "a05c5e7036942d6d38d1b99f3804374e71684b1dec3cb3689e9d8caabb083906",
-    "checksum_url":  "https://github.com/Mentornoob/QLTV-Updates/releases/download/v2.1.0/QLTV_Setup_v2.1.0.exe.sha256",
-    "source_commit":  "76297b0c736194c0624524cd2d6deecc3266f98e",
+    "version":  "2.2.0",
+    "title":  "QLTV 2.2.0",
+    "release_date":  "2026-07-22",
+    "download_url":  "https://github.com/Mentornoob/QLTV-Updates/releases/download/v2.2.0/QLTV_Setup_v2.2.0.exe",
+    "sha256":  "b380f71cd835d365666cf274bfa3dc957c3157fd71852f280e25cd0aa3f18a87",
+    "checksum_url":  "https://github.com/Mentornoob/QLTV-Updates/releases/download/v2.2.0/QLTV_Setup_v2.2.0.exe.sha256",
+    "source_commit":  "ab0bc6a4794832f3d00c8d6b7b83e4bef52e45ea",
     "notes":  [
-                  "Nâng cấp toàn diện giao diện desktop, kích thước, bố cục và khả năng truy cập.",
-                  "Thêm tra cứu nhanh danh mục, lọc tồn kho, xuất Excel và ghi nhớ bố cục.",
-                  "Sửa lỗi mượn vượt tồn, đối soát lượt trả, cấu hình, báo cáo và cập nhật.",
-                  "Bảo vệ dịch vụ MySQL của người dùng và giảm dung lượng bộ cài.",
-                  "Gia cố pipeline phát hành với kiểm tra artifact và SHA-256."
+                  "Thêm mượn/trả bán tự động; bổ sung giao diện sáng/tối, tùy chỉnh hiển thị và bố cục 16:9; tối ưu tra cứu 500 đầu sách, sửa lỗi treo; cải thiện menu và phím tắt; nâng cao an toàn dữ liệu, migration MySQL và kiểm thử tự động."
               ]
 }
