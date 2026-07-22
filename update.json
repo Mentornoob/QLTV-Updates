@@ -1,12 +1,12 @@
 {
-    "version":  "2.2.0",
-    "title":  "QLTV 2.2.0",
+    "version":  "2.2.1",
+    "title":  "QLTV 2.2.1",
     "release_date":  "2026-07-22",
-    "download_url":  "https://github.com/Mentornoob/QLTV-Updates/releases/download/v2.2.0/QLTV_Setup_v2.2.0.exe",
-    "sha256":  "b380f71cd835d365666cf274bfa3dc957c3157fd71852f280e25cd0aa3f18a87",
-    "checksum_url":  "https://github.com/Mentornoob/QLTV-Updates/releases/download/v2.2.0/QLTV_Setup_v2.2.0.exe.sha256",
-    "source_commit":  "ab0bc6a4794832f3d00c8d6b7b83e4bef52e45ea",
+    "download_url":  "https://github.com/Mentornoob/QLTV-Updates/releases/download/v2.2.1/QLTV_Setup_v2.2.1.exe",
+    "sha256":  "597d4accd619ef0fa810538d32a89fdf7d9f99b815a6b44a5ca1405d35b4a986",
+    "checksum_url":  "https://github.com/Mentornoob/QLTV-Updates/releases/download/v2.2.1/QLTV_Setup_v2.2.1.exe.sha256",
+    "source_commit":  "2ff8f07e6b40d04d71d980ab573246f45be6a21c",
     "notes":  [
-                  "Thêm mượn/trả bán tự động; bổ sung giao diện sáng/tối, tùy chỉnh hiển thị và bố cục 16:9; tối ưu tra cứu 500 đầu sách, sửa lỗi treo; cải thiện menu và phím tắt; nâng cao an toàn dữ liệu, migration MySQL và kiểm thử tự động."
+                  "Sửa lỗi cài lại không cập nhật đúng port và mật khẩu MySQL mới trong tab Cài đặt.,Gỡ cài đặt xóa CSDL MySQL và cấu hình kết nối cũ, đồng thời giữ nguyên dữ liệu sao lưu trong BACKUP_DATA."
               ]
 }
