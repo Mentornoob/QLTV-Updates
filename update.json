@@ -1,12 +1,15 @@
 {
-    "version":  "2.2.0",
-    "title":  "QLTV 2.2.0",
+    "version":  "2.2.1",
+    "title":  "QLTV 2.2.1",
     "release_date":  "2026-07-22",
-    "download_url":  "https://github.com/Mentornoob/QLTV-Updates/releases/download/v2.2.0/QLTV_Setup_v2.2.0.exe",
-    "sha256":  "b380f71cd835d365666cf274bfa3dc957c3157fd71852f280e25cd0aa3f18a87",
-    "checksum_url":  "https://github.com/Mentornoob/QLTV-Updates/releases/download/v2.2.0/QLTV_Setup_v2.2.0.exe.sha256",
-    "source_commit":  "ab0bc6a4794832f3d00c8d6b7b83e4bef52e45ea",
+    "download_url":  "https://github.com/Mentornoob/QLTV-Updates/releases/download/v2.2.1/QLTV_Setup_v2.2.1.exe",
+    "sha256":  "df31b91856f77f8038f0abdffed248983b5db1635ba4f7fd8b497df9af0e9e83",
+    "checksum_url":  "https://github.com/Mentornoob/QLTV-Updates/releases/download/v2.2.1/QLTV_Setup_v2.2.1.exe.sha256",
+    "source_commit":  "e411abbdd4ee600f277464fcb83dd34d93a76268",
     "notes":  [
-                  "Thêm mượn/trả bán tự động; bổ sung giao diện sáng/tối, tùy chỉnh hiển thị và bố cục 16:9; tối ưu tra cứu 500 đầu sách, sửa lỗi treo; cải thiện menu và phím tắt; nâng cao an toàn dữ liệu, migration MySQL và kiểm thử tự động."
+                  "Tải bản cập nhật trong nền với thanh tiến trình phần trăm và dung lượng.",
+                  "Tự động xác minh SHA-256, khởi động bộ cài và đóng ứng dụng an toàn.",
+                  "Tinh gọn thanh trạng thái bằng cách bỏ cụm phiên bản và đồng hồ.",
+                  "Khắc phục tiến trình gỡ cài đặt có thể bị treo khi dọn cấu hình MySQL."
               ]
 }
