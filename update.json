@@ -7,6 +7,7 @@
     "checksum_url":  "https://github.com/Mentornoob/QLTV-Updates/releases/download/v2.2.1/QLTV_Setup_v2.2.1.exe.sha256",
     "source_commit":  "2ff8f07e6b40d04d71d980ab573246f45be6a21c",
     "notes":  [
-                  "Sửa lỗi cài lại không cập nhật đúng port và mật khẩu MySQL mới trong tab Cài đặt.,Gỡ cài đặt xóa CSDL MySQL và cấu hình kết nối cũ, đồng thời giữ nguyên dữ liệu sao lưu trong BACKUP_DATA."
+                  "Sửa lỗi cài lại không cập nhật đúng port và mật khẩu MySQL mới trong tab Cài đặt.",
+                  "Gỡ cài đặt xóa CSDL MySQL và cấu hình kết nối cũ, đồng thời giữ nguyên dữ liệu sao lưu trong BACKUP_DATA."
               ]
 }
