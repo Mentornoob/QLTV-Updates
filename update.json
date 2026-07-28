@@ -1,14 +1,16 @@
 {
-    "version":  "2.4.0",
-    "title":  "QLTV 2.4.0",
+    "version":  "2.3.2",
+    "title":  "QLTV 2.3.2",
     "release_date":  "2026-07-28",
-    "download_url":  "https://github.com/Mentornoob/QLTV-Updates/releases/download/v2.4.0/QLTV_Setup_v2.4.0.exe",
-    "sha256":  "c9923c9e260f530edff2cd11227c6e2211b3790b27fb961823455f7b0938cb7e",
-    "checksum_url":  "https://github.com/Mentornoob/QLTV-Updates/releases/download/v2.4.0/QLTV_Setup_v2.4.0.exe.sha256",
-    "source_commit":  "e18fab478c4d46e66128737b6c875c9a7954ccfa",
+    "download_url":  "https://github.com/Mentornoob/QLTV-Updates/releases/download/v2.3.2/QLTV_Setup_v2.3.2.exe",
+    "sha256":  "4844cf634a8db5945732aaba9b049f0187b8793f6a665ac013d722522e93c46a",
+    "checksum_url":  "https://github.com/Mentornoob/QLTV-Updates/releases/download/v2.3.2/QLTV_Setup_v2.3.2.exe.sha256",
+    "source_commit":  "f709e5a7e68b31bb38c3e63032cbbbf772ee5946",
     "notes":  [
-                  "Thêm hệ thống cấp phép riêng với kích hoạt, kiểm tra phiên và lưu license an toàn bằng Windows DPAPI.",
-                  "Bổ sung bảng quản trị license, quản lý thiết bị, HWID và trạng thái chặn.",
-                  "Cải thiện hộp thoại thông báo, biểu tượng và giao diện ứng dụng."
+                  "Bổ sung tồn kho trực tiếp trong khi mượn.",
+                  "Giảm chi tiết QR, tăng độ rõ và khả năng quét thẻ.",
+                  "Sử dụng bộ icon mới, sửa tương phản dialog và đồng bộ toàn bộ giao diện control.",
+                  "Sửa thống kê hồ sơ chưa có giao dịch và chuẩn hóa trường ngày."
+                  "Thêm hệ thống phân cấp quản trị."
               ]
 }
