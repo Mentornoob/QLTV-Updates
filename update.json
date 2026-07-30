@@ -1,16 +1,14 @@
 {
-    "version":  "2.3.2",
-    "title":  "QLTV 2.3.2",
-    "release_date":  "2026-07-28",
-    "download_url":  "https://github.com/Mentornoob/QLTV-Updates/releases/download/v2.3.2/QLTV_Setup_v2.3.2.exe",
-    "sha256":  "4844cf634a8db5945732aaba9b049f0187b8793f6a665ac013d722522e93c46a",
-    "checksum_url":  "https://github.com/Mentornoob/QLTV-Updates/releases/download/v2.3.2/QLTV_Setup_v2.3.2.exe.sha256",
-    "source_commit":  "f709e5a7e68b31bb38c3e63032cbbbf772ee5946",
+    "version":  "2.3.3",
+    "title":  "QLTV 2.3.3",
+    "release_date":  "2026-07-30",
+    "download_url":  "https://github.com/Mentornoob/QLTV-Updates/releases/download/v2.3.3/QLTV_Setup_v2.3.3.exe",
+    "sha256":  "0edf8bea9993264729117f80c0bdc1b8cfd04bbcb4f27fc992c75383fbadafa5",
+    "checksum_url":  "https://github.com/Mentornoob/QLTV-Updates/releases/download/v2.3.3/QLTV_Setup_v2.3.3.exe.sha256",
+    "source_commit":  "d6f3b2bde241f5a9816289fe9d11f7d06961186e",
     "notes":  [
-                  "Bổ sung tồn kho trực tiếp trong khi mượn.",
-                  "Giảm chi tiết QR, tăng độ rõ và khả năng quét thẻ.",
-                  "Sử dụng bộ icon mới, sửa tương phản dialog và đồng bộ toàn bộ giao diện control.",
-                  "Sửa thống kê hồ sơ chưa có giao dịch và chuẩn hóa trường ngày.",
-                  "Thêm hệ thống phân cấp quản trị."
+                  "Sửa lỗi chọn, mở và chỉnh sửa sai bản ghi sau khi sắp xếp cột trong bảng hồ sơ người mượn.",
+                  "Đồng bộ ánh xạ dòng sau sắp xếp cho bảng quản lý tài khoản và giữ đúng hồ sơ khi tải lại.",
+                  "Bản phát hành mặc định không bao gồm module licensing tùy chọn."
               ]
 }
