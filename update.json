@@ -1,14 +1,13 @@
 {
-    "version":  "2.3.3",
-    "title":  "QLTV 2.3.3",
-    "release_date":  "2026-07-30",
-    "download_url":  "https://github.com/Mentornoob/QLTV-Updates/releases/download/v2.3.3/QLTV_Setup_v2.3.3.exe",
-    "sha256":  "0edf8bea9993264729117f80c0bdc1b8cfd04bbcb4f27fc992c75383fbadafa5",
-    "checksum_url":  "https://github.com/Mentornoob/QLTV-Updates/releases/download/v2.3.3/QLTV_Setup_v2.3.3.exe.sha256",
-    "source_commit":  "d6f3b2bde241f5a9816289fe9d11f7d06961186e",
-    "notes":  [
-                  "Sửa lỗi chọn, mở và chỉnh sửa sai bản ghi sau khi sắp xếp cột trong bảng hồ sơ người mượn.",
-                  "Đồng bộ ánh xạ dòng sau sắp xếp cho bảng quản lý tài khoản và giữ đúng hồ sơ khi tải lại.",
-                  "Bản phát hành mặc định không bao gồm module licensing tùy chọn."
-              ]
+	"version": "2.3.3",
+	"title": "QLTV 2.3.3",
+	"release_date": "2026-07-30",
+	"download_url": "https://github.com/Mentornoob/QLTV-Updates/releases/download/v2.3.3/QLTV_Setup_v2.3.3.exe",
+	"sha256": "0edf8bea9993264729117f80c0bdc1b8cfd04bbcb4f27fc992c75383fbadafa5",
+	"checksum_url": "https://github.com/Mentornoob/QLTV-Updates/releases/download/v2.3.3/QLTV_Setup_v2.3.3.exe.sha256",
+	"source_commit": "d6f3b2bde241f5a9816289fe9d11f7d06961186e",
+	"notes": [
+		"Sửa lỗi chọn, mở và chỉnh sửa sai bản ghi sau khi sắp xếp cột trong bảng hồ sơ người mượn.",
+		"Đồng bộ ánh xạ dòng sau sắp xếp cho bảng quản lý tài khoản và giữ đúng hồ sơ khi tải lại."
+	]
 }
