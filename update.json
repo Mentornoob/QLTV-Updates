@@ -1,15 +1,12 @@
 {
-    "version":  "2.3.7",
-    "title":  "QLTV 2.3.7",
-    "release_date":  "2026-08-03",
-    "download_url":  "https://github.com/Mentornoob/QLTV-Updates/releases/download/v2.3.7/QLTV_Setup_v2.3.7.exe",
-    "sha256":  "8d3dd954ea39eb0244f4a42c96f32194c8d4f43fd53637818c9d9df7a9d02831",
-    "checksum_url":  "https://github.com/Mentornoob/QLTV-Updates/releases/download/v2.3.7/QLTV_Setup_v2.3.7.exe.sha256",
-    "source_commit":  "f64bc570421a7a4864a7eabbba36a44839730c8e",
+    "version":  "2.3.8",
+    "title":  "QLTV 2.3.8",
+    "release_date":  "2026-08-04",
+    "download_url":  "https://github.com/Mentornoob/QLTV-Updates/releases/download/v2.3.8/QLTV_Setup_v2.3.8.exe",
+    "sha256":  "658a63058a2aacb533defd7029345e178fa867973ad81a409a0c4868de59a6d5",
+    "checksum_url":  "https://github.com/Mentornoob/QLTV-Updates/releases/download/v2.3.8/QLTV_Setup_v2.3.8.exe.sha256",
+    "source_commit":  "54f79ce5ad48db61c99ed34ba2a466d30afc03dc",
     "notes":  [
-                  "Chuyển chức năng tra cứu ISBN sang OPAC Thư viện Quốc gia, tự động lấy tên sách và tác giả mà không cần API key.",
-                  "Cải thiện khả năng tự điều chỉnh kích thước hộp thoại và hiển thị thanh cuộn trên màn hình nhỏ.",
-                  "Cải thiện giao diện theo dõi tiến trình tác vụ và giảm thông báo kiểm tra kết nối cơ sở dữ liệu không cần thiết.",
-                  "Tăng cường bảo mật công cụ khôi phục tài khoản quản trị, bổ sung giới hạn lượt sử dụng và che mật khẩu khi nhập."
+                  "Sửa lỗi không tìm thấy sách thuộc dải ISBN Việt Nam 978-632 trên OPAC Thư viện Quốc gia."
               ]
 }
