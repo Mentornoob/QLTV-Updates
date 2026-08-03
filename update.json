@@ -1,12 +1,12 @@
 {
-    "version":  "2.3.5",
-    "title":  "QLTV 2.3.5",
+    "version":  "2.3.6",
+    "title":  "QLTV 2.3.6",
     "release_date":  "2026-08-03",
-    "download_url":  "https://github.com/Mentornoob/QLTV-Updates/releases/download/v2.3.5/QLTV_Setup_v2.3.5.exe",
-    "sha256":  "843b827fb78ab96c4413dddad088684408f329a0689adf0e7e6912c7f943170f",
-    "checksum_url":  "https://github.com/Mentornoob/QLTV-Updates/releases/download/v2.3.5/QLTV_Setup_v2.3.5.exe.sha256",
-    "source_commit":  "ca46f3705d6c12dc83c621706be59946be79c304",
+    "download_url":  "https://github.com/Mentornoob/QLTV-Updates/releases/download/v2.3.6/QLTV_Setup_v2.3.6.exe",
+    "sha256":  "3f6110c0873b6200875de9fcf983b397f4eb3ed5406eb70f028d9868774b356c",
+    "checksum_url":  "https://github.com/Mentornoob/QLTV-Updates/releases/download/v2.3.6/QLTV_Setup_v2.3.6.exe.sha256",
+    "source_commit":  "6f14dec803e091c9f9204acb965bd6229ebf6efd",
     "notes":  [
-                  "Phát hành QLTV 2.3.5."
+                  "Sửa kích thước font và control trong dialog; căn đều nhãn và ô nhập liệu; tối ưu chiều cao Settings."
               ]
 }
