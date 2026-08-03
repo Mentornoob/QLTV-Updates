@@ -1,14 +1,12 @@
 {
-    "version":  "2.3.4",
-    "title":  "QLTV 2.3.4",
-    "release_date":  "2026-08-02",
-    "download_url":  "https://github.com/Mentornoob/QLTV-Updates/releases/download/v2.3.4/QLTV_Setup_v2.3.4.exe",
-    "sha256":  "89fea063adfc456ea618959ed2fa2f4f3bd0f25b49592b217fb586408d4c7d77",
-    "checksum_url":  "https://github.com/Mentornoob/QLTV-Updates/releases/download/v2.3.4/QLTV_Setup_v2.3.4.exe.sha256",
-    "source_commit":  "80818b8646563495aef60176950705c70bacdaf7",
+    "version":  "2.3.5",
+    "title":  "QLTV 2.3.5",
+    "release_date":  "2026-08-03",
+    "download_url":  "https://github.com/Mentornoob/QLTV-Updates/releases/download/v2.3.5/QLTV_Setup_v2.3.5.exe",
+    "sha256":  "843b827fb78ab96c4413dddad088684408f329a0689adf0e7e6912c7f943170f",
+    "checksum_url":  "https://github.com/Mentornoob/QLTV-Updates/releases/download/v2.3.5/QLTV_Setup_v2.3.5.exe.sha256",
+    "source_commit":  "ca46f3705d6c12dc83c621706be59946be79c304",
     "notes":  [
-                  "Tinh chỉnh bố cục và khoảng cách ở một số màn hình.",
-                  "Cải thiện hiển thị responsive cùng trạng thái tải và lỗi.",
-                  "Sửa một số lỗi nhỏ khi thao tác với bảng và hộp thoại."
+                  "Phát hành QLTV 2.3.5."
               ]
 }
