@@ -1,13 +1,13 @@
 {
-    "version":  "2.3.9",
-    "title":  "QLTV 2.3.9",
+    "version":  "2.3.10",
+    "title":  "QLTV 2.3.10",
     "release_date":  "2026-08-04",
-    "download_url":  "https://github.com/Mentornoob/QLTV-Updates/releases/download/v2.3.9/QLTV_Setup_v2.3.9.exe",
-    "sha256":  "6da99f4dceb3919e5991262da08ef989d205f460ea2106328a729101fec094a7",
-    "checksum_url":  "https://github.com/Mentornoob/QLTV-Updates/releases/download/v2.3.9/QLTV_Setup_v2.3.9.exe.sha256",
-    "source_commit":  "54f79ce5ad48db61c99ed34ba2a466d30afc03dc",
+    "download_url":  "https://github.com/Mentornoob/QLTV-Updates/releases/download/v2.3.10/QLTV_Setup_v2.3.10.exe",
+    "sha256":  "803b490f2c245c6c71bb0a20f4869b981b4104df64c34fef7343914e100449a4",
+    "checksum_url":  "https://github.com/Mentornoob/QLTV-Updates/releases/download/v2.3.10/QLTV_Setup_v2.3.10.exe.sha256",
+    "source_commit":  "da0c8f6fdc934994cd4f2a38540b9fd6c76b1745",
     "source_dirty":  true,
     "notes":  [
-                  "Sửa lỗi ghi nhật ký hoạt động."
+                  "Chỉnh sửa kích thước một số hộp thoại chưa cân đối."
               ]
 }
