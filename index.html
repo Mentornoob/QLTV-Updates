@@ -8,7 +8,12 @@
   <meta property="og:title" content="QLTV Desktop — Quản lý thư viện dễ dàng">
   <meta property="og:description" content="Khám phá tính năng, xem bản cập nhật và tải QLTV Desktop.">
   <meta property="og:type" content="website">
+  <meta property="og:image" content="assets/banner.png">
+  <meta property="og:image:type" content="image/png">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="assets/banner.png">
   <title>QLTV Desktop — Quản lý thư viện dễ dàng</title>
+  <link rel="icon" href="assets/icon.ico" type="image/x-icon">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@600;700;800&display=swap" rel="stylesheet">
@@ -18,8 +23,13 @@
 <body>
 <a class="skip" href="#main">Đến nội dung</a>
 <header id="top">
+  <div class="banner">
+    <div class="container banner-inner">
+      <p>📢 <strong>Thông báo</strong>: QLTV Desktop đã cập nhật đến phiên bản mới nhất. <a href="#updates">Xem chi tiết</a></p>
+    </div>
+  </div>
   <div class="container nav">
-    <a class="brand" href="#top" aria-label="QLTV Desktop"><span class="logo"><svg viewBox="0 0 32 32"><path d="M7 5.5h11a4 4 0 0 1 4 4v17H11a4 4 0 0 1-4-4v-17Z"/><path d="M11 5.5v17a4 4 0 0 0 4 4M16 10h10v16.5H16"/></svg></span><span>QLTV <b>Desktop</b></span></a>
+    <a class="brand" href="#top" aria-label="QLTV Desktop"><span class="logo"><img src="assets/icon.ico" alt="Logo QLTV" width="24" height="24"></span><span>QLTV <b>Desktop</b></span></a>
     <button class="menu" aria-label="Mở menu" aria-expanded="false"><i></i><i></i></button>
     <nav><a href="#features">Tính năng</a><a href="#updates">Cập nhật</a><a href="#about">Giới thiệu</a><a class="nav-cta" href="#download">Tải ứng dụng</a></nav>
   </div>
@@ -77,7 +87,22 @@
 <section class="about section" id="about">
   <div class="container about-grid">
     <div class="quote reveal"><b>“</b><blockquote>Phần mềm tốt không làm công việc thêm phức tạp. Nó giúp ta có thêm thời gian cho điều quan trọng.</blockquote></div>
-    <div class="about-copy reveal"><div class="eyebrow"><i></i> Về dự án</div><h2>Được làm với sự<br><em>tỉ mỉ & thấu hiểu.</em></h2><p>QLTV Desktop hướng đến trải nghiệm quản lý thư viện gần gũi, dễ tiếp cận và phù hợp với nhu cầu thực tế.</p><p>Mỗi bản cập nhật tập trung vào độ ổn định, tốc độ và những cải tiến nhỏ tạo nên khác biệt lớn trong công việc hằng ngày.</p><a class="developer" href="https://github.com/Mentornoob" target="_blank" rel="noopener"><span class="github">●</span><span><small>Nhà phát triển</small><b>Mentornoob</b></span><strong>↗</strong></a></div>
+    <div class="about-copy reveal"><div class="eyebrow"><i></i> Về dự án</div><h2>Được làm với sự<br><em>tỉ mỉ & thấu hiểu.</em></h2><p>QLTV Desktop hướng đến trải nghiệm quản lý thư viện gần gũi, dễ tiếp cận và phù hợp với nhu cầu thực tế.</p><p>Mỗi bản cập nhật tập trung vào độ ổn định, tốc độ và những cải tiến nhỏ tạo nên khác biệt lớn trong công việc hằng ngày.</p>
+      <div class="developer-card">
+        <div class="developer-info">
+          <span class="github">●</span>
+          <div>
+            <small>Nhà phát triển</small>
+            <b>Đậu Bá Cường</b>
+            <a class="email" href="mailto:cuongdauba2006@gmail.com">cuongdauba2006@gmail.com</a>
+          </div>
+        </div>
+        <div class="donate">
+          <img src="assets/qr.jpg" alt="QR Donate" class="developer-qr">
+          <div class="donate-text"><b>Donate</b><small>5181001267 — BIDV</small></div>
+        </div>
+      </div>
+    </div>
   </div>
 </section>
 
