@@ -1,13 +1,13 @@
 {
-    "version":  "2.3.11",
-    "title":  "QLTV 2.3.11",
+    "version":  "2.3.12",
+    "title":  "QLTV 2.3.12",
     "release_date":  "2026-08-04",
-    "download_url":  "https://github.com/Mentornoob/QLTV-Updates/releases/download/v2.3.11/QLTV_Setup_v2.3.11.exe",
-    "sha256":  "b2e6b493454ef3cbb0cd88f48a46962739f0dc5f86b675a00f01ab20f661af0e",
-    "checksum_url":  "https://github.com/Mentornoob/QLTV-Updates/releases/download/v2.3.11/QLTV_Setup_v2.3.11.exe.sha256",
-    "source_commit":  "4ebaa27106a53456e71f77d39e4524c814174161",
+    "download_url":  "https://github.com/Mentornoob/QLTV-Updates/releases/download/v2.3.12/QLTV_Setup_v2.3.12.exe",
+    "sha256":  "d148879940b63b9b4c1be6e7f44336166baac4cda6e15dc485e01732ef23595e",
+    "checksum_url":  "https://github.com/Mentornoob/QLTV-Updates/releases/download/v2.3.12/QLTV_Setup_v2.3.12.exe.sha256",
+    "source_commit":  "5bc633b667b4ff414cbf0429746f8ff436b5f67c",
     "source_dirty":  true,
     "notes":  [
-                  "Chỉnh sửa vị trí một số checkbox chưa cân đối."
+                  "Chỉnh sửa kích thước một số hộp thoại chưa cân đối."
               ]
 }
