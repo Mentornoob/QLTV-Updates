@@ -1,12 +1,13 @@
 {
-    "version":  "2.3.8",
-    "title":  "QLTV 2.3.8",
+    "version":  "2.3.9",
+    "title":  "QLTV 2.3.9",
     "release_date":  "2026-08-04",
-    "download_url":  "https://github.com/Mentornoob/QLTV-Updates/releases/download/v2.3.8/QLTV_Setup_v2.3.8.exe",
-    "sha256":  "658a63058a2aacb533defd7029345e178fa867973ad81a409a0c4868de59a6d5",
-    "checksum_url":  "https://github.com/Mentornoob/QLTV-Updates/releases/download/v2.3.8/QLTV_Setup_v2.3.8.exe.sha256",
+    "download_url":  "https://github.com/Mentornoob/QLTV-Updates/releases/download/v2.3.9/QLTV_Setup_v2.3.9.exe",
+    "sha256":  "6da99f4dceb3919e5991262da08ef989d205f460ea2106328a729101fec094a7",
+    "checksum_url":  "https://github.com/Mentornoob/QLTV-Updates/releases/download/v2.3.9/QLTV_Setup_v2.3.9.exe.sha256",
     "source_commit":  "54f79ce5ad48db61c99ed34ba2a466d30afc03dc",
+    "source_dirty":  true,
     "notes":  [
-                  "Sửa lỗi không tìm thấy sách thuộc dải ISBN Việt Nam 978-632 trên OPAC Thư viện Quốc gia."
+                  "Sửa lỗi ghi nhật ký hoạt động."
               ]
 }
