@@ -1,13 +1,13 @@
 {
-    "version":  "2.3.12",
-    "title":  "QLTV 2.3.12",
-    "release_date":  "2026-08-04",
-    "download_url":  "https://github.com/Mentornoob/QLTV-Updates/releases/download/v2.3.12/QLTV_Setup_v2.3.12.exe",
-    "sha256":  "d148879940b63b9b4c1be6e7f44336166baac4cda6e15dc485e01732ef23595e",
-    "checksum_url":  "https://github.com/Mentornoob/QLTV-Updates/releases/download/v2.3.12/QLTV_Setup_v2.3.12.exe.sha256",
-    "source_commit":  "5bc633b667b4ff414cbf0429746f8ff436b5f67c",
-    "source_dirty":  true,
+    "version":  "2.3.14",
+    "title":  "QLTV 2.3.14",
+    "release_date":  "2026-08-05",
+    "download_url":  "https://github.com/Mentornoob/QLTV-Updates/releases/download/v2.3.14/QLTV_Setup_v2.3.14.exe",
+    "sha256":  "28f006584ffe9e72e61592a5b190d80b7058a4e57c65c5264ada608ffc122750",
+    "checksum_url":  "https://github.com/Mentornoob/QLTV-Updates/releases/download/v2.3.14/QLTV_Setup_v2.3.14.exe.sha256",
+    "source_commit":  "495799d443406a5d1a6162b29321ca5fdc5873d7",
+    "source_dirty":  false,
     "notes":  [
-                  "Chỉnh sửa kích thước một số hộp thoại chưa cân đối."
+                  "Vá kết nối quản lý thiết bị sau khi đổi hostname ChatGPT Sites; ứng dụng tự đọc endpoint hiện hành từ cấu hình công khai và tự làm mới khi kết nối lỗi."
               ]
 }
