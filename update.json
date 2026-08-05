@@ -8,7 +8,7 @@
   "source_commit": "495799d443406a5d1a6162b29321ca5fdc5873d7",
   "source_dirty": false,
   "notes": [
-    "V? k?t n?i qu?n l? thi?t b? sau khi ??i hostname ChatGPT Sites.",
-    "?ng d?ng t? ??c endpoint hi?n h?nh t? c?u h?nh c?ng khai v? t? l?m m?i khi k?t n?i l?i."
+    "Vá kết nối quản lý thiết bị sau khi đổi hostname ChatGPT Sites.",
+    "Ứng dụng tự đọc endpoint hiện hành từ cấu hình công khai và tự làm mới khi kết nối lỗi."
   ]
 }
