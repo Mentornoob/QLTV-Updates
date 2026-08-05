@@ -1,13 +1,14 @@
 {
-    "version":  "2.3.14",
-    "title":  "QLTV 2.3.14",
-    "release_date":  "2026-08-05",
-    "download_url":  "https://github.com/Mentornoob/QLTV-Updates/releases/download/v2.3.14/QLTV_Setup_v2.3.14.exe",
-    "sha256":  "28f006584ffe9e72e61592a5b190d80b7058a4e57c65c5264ada608ffc122750",
-    "checksum_url":  "https://github.com/Mentornoob/QLTV-Updates/releases/download/v2.3.14/QLTV_Setup_v2.3.14.exe.sha256",
-    "source_commit":  "495799d443406a5d1a6162b29321ca5fdc5873d7",
-    "source_dirty":  false,
-    "notes":  [
-                  "Vá kết nối quản lý thiết bị sau khi đổi hostname ChatGPT Sites; ứng dụng tự đọc endpoint hiện hành từ cấu hình công khai và tự làm mới khi kết nối lỗi."
-              ]
+  "version": "2.3.14",
+  "title": "QLTV 2.3.14",
+  "release_date": "2026-08-05",
+  "download_url": "https://github.com/Mentornoob/QLTV-Updates/releases/download/v2.3.14/QLTV_Setup_v2.3.14.exe",
+  "sha256": "28f006584ffe9e72e61592a5b190d80b7058a4e57c65c5264ada608ffc122750",
+  "checksum_url": "https://github.com/Mentornoob/QLTV-Updates/releases/download/v2.3.14/QLTV_Setup_v2.3.14.exe.sha256",
+  "source_commit": "495799d443406a5d1a6162b29321ca5fdc5873d7",
+  "source_dirty": false,
+  "notes": [
+    "V? k?t n?i qu?n l? thi?t b? sau khi ??i hostname ChatGPT Sites.",
+    "?ng d?ng t? ??c endpoint hi?n h?nh t? c?u h?nh c?ng khai v? t? l?m m?i khi k?t n?i l?i."
+  ]
 }
