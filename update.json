@@ -3,10 +3,10 @@
     "title":  "QLTV 2.3.14",
     "release_date":  "2026-08-05",
     "download_url":  "https://github.com/Mentornoob/QLTV-Updates/releases/download/v2.3.14/QLTV_Setup_v2.3.14.exe",
-    "sha256":  "516af34838d2c2e0ec37ae68595013f3661c0762552f09c402717eea12e3b18c",
+    "sha256":  "21f6eb8a27bd63e30b0cb59dca26c5d4a6e5df4cb03b4bcd6b2e3f3f41b0b3e2",
     "checksum_url":  "https://github.com/Mentornoob/QLTV-Updates/releases/download/v2.3.14/QLTV_Setup_v2.3.14.exe.sha256",
-    "source_commit":  "2e13f8cee74b635ba100fded20d54d98d59b898a",
-    "source_dirty":  true,
+    "source_commit":  "f200e6d1f3244ffbfee94d49ce9353038a434437",
+    "source_dirty":  false,
     "notes":  [
                   "Bổ sung các cơ chế tạo thẻ mượn bằng BARCODE",
                   "Bổ sung mượn trả bằng BARCODE",
