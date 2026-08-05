@@ -8,7 +8,8 @@
   "source_commit": "495799d443406a5d1a6162b29321ca5fdc5873d7",
   "source_dirty": false,
   "notes": [
-    "Vá kết nối quản lý thiết bị sau khi đổi hostname ChatGPT Sites.",
-    "Ứng dụng tự đọc endpoint hiện hành từ cấu hình công khai và tự làm mới khi kết nối lỗi."
+    "Bổ sung các cơ chế tạo thẻ mượn bằng BARCODE",
+    "Bổ sung mượn trả bằng BARCODE",
+    "Chỉnh sửa kích thước một vài hộp thoại bị lỗi, đồng thời cải tiến giao diện.",
   ]
 }
