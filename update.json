@@ -1,15 +1,15 @@
 {
-    "version":  "2.3.14",
-    "title":  "QLTV 2.3.14",
-    "release_date":  "2026-08-05",
-    "download_url":  "https://github.com/Mentornoob/QLTV-Updates/releases/download/v2.3.14/QLTV_Setup_v2.3.14.exe",
-    "sha256":  "21f6eb8a27bd63e30b0cb59dca26c5d4a6e5df4cb03b4bcd6b2e3f3f41b0b3e2",
-    "checksum_url":  "https://github.com/Mentornoob/QLTV-Updates/releases/download/v2.3.14/QLTV_Setup_v2.3.14.exe.sha256",
-    "source_commit":  "f200e6d1f3244ffbfee94d49ce9353038a434437",
+    "version":  "2.3.15",
+    "title":  "QLTV 2.3.15",
+    "release_date":  "2026-08-06",
+    "download_url":  "https://github.com/Mentornoob/QLTV-Updates/releases/download/v2.3.15/QLTV_Setup_v2.3.15.exe",
+    "sha256":  "f174f551cb79784732f7d75a1fc59af1436a078d8f961e6679b548f3d8fb5c44",
+    "checksum_url":  "https://github.com/Mentornoob/QLTV-Updates/releases/download/v2.3.15/QLTV_Setup_v2.3.15.exe.sha256",
+    "source_commit":  "ed65a730f2858302e0e1f8d1eac1f41315866290",
     "source_dirty":  false,
     "notes":  [
-                  "Bổ sung các cơ chế tạo thẻ mượn bằng BARCODE",
-                  "Bổ sung mượn trả bằng BARCODE",
-                  "Chỉnh sửa kích thước một vài hộp thoại bị lỗi, đồng thời cải tiến giao diện"
+                  "Khôi phục đầy đủ tên máy, hệ điều hành, CPU, RAM, model và kiến trúc khi thiết bị bị xóa rồi tự đăng ký lại.",
+                  "Giữ lại thông tin phần cứng ở trạng thái ẩn để heartbeat tiếp theo có thể phục hồi thiết bị mà không làm rỗng dữ liệu.",
+                  "Tự động gửi lại toàn bộ telemetry ngay khi máy chủ phát hiện bản ghi thiết bị còn thiếu thông tin."
               ]
 }
