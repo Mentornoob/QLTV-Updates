@@ -8,6 +8,8 @@
     "source_commit":  "2e13f8cee74b635ba100fded20d54d98d59b898a",
     "source_dirty":  true,
     "notes":  [
-                  "Bổ sung các cơ chế tạo thẻ mượn bằng BARCODE; Bổ sung mượn trả bằng BARCODE; Chỉnh sửa kích thước một vài hộp thoại bị lỗi, đồng thời cải tiến giao diện"
+                  "Bổ sung các cơ chế tạo thẻ mượn bằng BARCODE",
+                  "Bổ sung mượn trả bằng BARCODE",
+                  "Chỉnh sửa kích thước một vài hộp thoại bị lỗi, đồng thời cải tiến giao diện"
               ]
 }
