@@ -1,19 +1,15 @@
 {
-    "version":  "2.3.13",
-    "title":  "QLTV 2.3.13",
-    "release_date":  "2026-08-06",
-    "download_url":  "https://github.com/Mentornoob/QLTV-Updates/releases/download/v2.3.13/QLTV_Setup_v2.3.13.exe",
-    "sha256":  "70ce279e85cdfb47fa569fb9752d2b73c779f7ec1ac54d76d328839968e571f0",
-    "checksum_url":  "https://github.com/Mentornoob/QLTV-Updates/releases/download/v2.3.13/QLTV_Setup_v2.3.13.exe.sha256",
-    "source_commit":  "ede1be1d0b082495022dd88da61f816af84aba77",
-    "source_dirty":  false,
+    "version":  "2.3.14",
+    "title":  "QLTV 2.3.14",
+    "release_date":  "2026-08-07",
+    "download_url":  "https://github.com/Mentornoob/QLTV-Updates/releases/download/v2.3.14/QLTV_Setup_v2.3.14.exe",
+    "sha256":  "b9b8b34468ec2fbb35bfa1a677b3ba8f31367ea5b4579e3d1fd2f4c7cbae1396",
+    "checksum_url":  "https://github.com/Mentornoob/QLTV-Updates/releases/download/v2.3.14/QLTV_Setup_v2.3.14.exe.sha256",
+    "source_commit":  "724f13a08d7f59296d13fc2be887fff2507ffe5a",
+    "source_dirty":  true,
     "notes":  [
-                  "Điều chỉnh bộ cài",
-                  "Bổ sung Điều khoản \u0026 Chính sách sử dụng",
-                  "Bổ sung các cơ chế tạo thẻ mượn dùng BARCODE",
-                  "Bổ sung mượn trả bằng BARCODE",
-                  "Chỉnh sửa kích thước một vài hộp thoại bị lỗi",
-                  "Cải thiện giao diện tiến trình sao lưu tự động.",
-                  "Sửa lỗi crash ứng dụng khi tương tác liên tục quá nhanh"
+                  "Sửa trường hạn sử dụng thẻ trong hồ sơ người mượn thành ô chọn ngày.",
+                  "Chỉ hiển thị xác nhận cập nhật khi thông tin hồ sơ thực sự thay đổi.",
+                  "Chuyển mượn/trả bán tự động bằng scanner sang dialog giỏ sách giống luồng camera."
               ]
 }
