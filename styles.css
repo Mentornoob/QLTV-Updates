@@ -346,3 +346,31 @@
   .footer-brand,.footer-cta{grid-column:1}
   .footer-links{padding-top:18px;border-top:1px solid rgba(255,255,255,.08)}
 }
+
+/* Mobile announcement banner */
+.banner-inner p{
+  width:100%;
+  display:block;
+  text-align:center;
+  line-height:1.45;
+}
+.banner-inner p>*{margin-right:5px}
+.banner-inner p>*:last-child{margin-right:0}
+.banner-icon{display:inline-block;line-height:1;vertical-align:-1px}
+.banner-inner strong{font-weight:800}
+.banner-inner a{white-space:nowrap}
+
+@media(max-width:760px){
+  .banner-inner{min-height:52px;padding:8px 0;font-size:12px;line-height:1.4}
+  .banner-inner p{text-align:center}
+  .banner-inner strong{font-size:12px}
+  .banner-inner a{font-size:12px}
+  .hero{padding-top:142px}
+}
+
+@media(max-width:430px){
+  .banner-inner{font-size:11px}
+  .banner-inner p>*{margin-right:4px}
+  .banner-icon{font-size:13px}
+  .banner-inner strong,.banner-inner a{font-size:11px}
+}
