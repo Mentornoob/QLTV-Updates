@@ -1,10 +1,10 @@
 {
-    "version":  "2.3.14",
-    "title":  "QLTV 2.3.14",
+    "version":  "2.3.13",
+    "title":  "QLTV 2.3.13",
     "release_date":  "2026-08-06",
-    "download_url":  "https://github.com/Mentornoob/QLTV-Updates/releases/download/v2.3.14/QLTV_Setup_v2.3.14.exe",
-    "sha256":  "93f1c44aa88f831ac519335e8986a51c7d4adea2b784deaa50a0b854d67c4bfe",
-    "checksum_url":  "https://github.com/Mentornoob/QLTV-Updates/releases/download/v2.3.14/QLTV_Setup_v2.3.14.exe.sha256",
+    "download_url":  "https://github.com/Mentornoob/QLTV-Updates/releases/download/v2.3.13/QLTV_Setup_v2.3.13.exe",
+    "sha256":  "ae23ac81807af6bab91bd4717f30cb1dec4b215012542f1d02bbd864c170bda6",
+    "checksum_url":  "https://github.com/Mentornoob/QLTV-Updates/releases/download/v2.3.13/QLTV_Setup_v2.3.13.exe.sha256",
     "source_commit":  "482a261ab14dabee3b52daac719ec6631e7a57b5",
     "source_dirty":  true,
     "notes":  [
@@ -13,6 +13,7 @@
                   "Bổ sung các cơ chế tạo thẻ mượn dùng BARCODE",
                   "Bổ sung mượn trả bằng BARCODE",
                   "Chỉnh sửa kích thước một vài hộp thoại bị lỗi",
-                  "Sửa lỗi văng app khi tương tác liên tục quá nhanh"
+                  "Cải thiện giao diện tiến trình sao lưu tự động.",
+                  "Sửa lỗi crash ứng dụng khi tương tác liên tục quá nhanh"
               ]
 }
