@@ -3,15 +3,16 @@
     "title":  "QLTV 2.3.14",
     "release_date":  "2026-08-06",
     "download_url":  "https://github.com/Mentornoob/QLTV-Updates/releases/download/v2.3.14/QLTV_Setup_v2.3.14.exe",
-    "sha256":  "e5c2112dc8c02d7bd944398f50c5b2e9c802169c6cdda4edd89e467014bc40b8",
+    "sha256":  "93f1c44aa88f831ac519335e8986a51c7d4adea2b784deaa50a0b854d67c4bfe",
     "checksum_url":  "https://github.com/Mentornoob/QLTV-Updates/releases/download/v2.3.14/QLTV_Setup_v2.3.14.exe.sha256",
-    "source_commit":  "8610a1edfae776a926479820e9dcbeab91874a62",
-    "source_dirty":  false,
+    "source_commit":  "482a261ab14dabee3b52daac719ec6631e7a57b5",
+    "source_dirty":  true,
     "notes":  [
                   "Điều chỉnh bộ cài",
                   "Cập nhật điều quản sử dụng lúc cài đặt",
                   "Bổ sung các cơ chế tạo thẻ mượn dùng BARCODE",
                   "Bổ sung mượn trả bằng BARCODE",
-                  "Chỉnh sửa kích thước một vài hộp thoại bị lỗi, đồng thời cải tiến giao diện"
+                  "Chỉnh sửa kích thước một vài hộp thoại bị lỗi",
+                  "Sửa lỗi văng app khi tương tác liên tục quá nhanh"
               ]
 }
