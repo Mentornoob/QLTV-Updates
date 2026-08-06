@@ -3,12 +3,14 @@
     "title":  "QLTV 2.3.14",
     "release_date":  "2026-08-06",
     "download_url":  "https://github.com/Mentornoob/QLTV-Updates/releases/download/v2.3.14/QLTV_Setup_v2.3.14.exe",
-    "sha256":  "ca2c65712b477c45b5bcf77c3885efb81406051aea9938da1218c4286c1aabc0",
+    "sha256":  "e5c2112dc8c02d7bd944398f50c5b2e9c802169c6cdda4edd89e467014bc40b8",
     "checksum_url":  "https://github.com/Mentornoob/QLTV-Updates/releases/download/v2.3.14/QLTV_Setup_v2.3.14.exe.sha256",
-    "source_commit":  "c548b2c3f3da18cb98e3c1c06318d01447789d4e",
-    "source_dirty":  true,
+    "source_commit":  "8610a1edfae776a926479820e9dcbeab91874a62",
+    "source_dirty":  false,
     "notes":  [
-                  "Bổ sung các cơ chế tạo thẻ mượn bằng BARCODE",
+                  "Điều chỉnh bộ cài",
+                  "Cập nhật điều quản sử dụng lúc cài đặt",
+                  "Bổ sung các cơ chế tạo thẻ mượn dùng BARCODE",
                   "Bổ sung mượn trả bằng BARCODE",
                   "Chỉnh sửa kích thước một vài hộp thoại bị lỗi, đồng thời cải tiến giao diện"
               ]
