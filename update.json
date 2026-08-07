@@ -1,15 +1,16 @@
 {
-    "version":  "2.3.14",
-    "title":  "QLTV 2.3.14",
+    "version":  "2.3.15",
+    "title":  "QLTV 2.3.15",
     "release_date":  "2026-08-07",
-    "download_url":  "https://github.com/Mentornoob/QLTV-Updates/releases/download/v2.3.14/QLTV_Setup_v2.3.14.exe",
-    "sha256":  "b9b8b34468ec2fbb35bfa1a677b3ba8f31367ea5b4579e3d1fd2f4c7cbae1396",
-    "checksum_url":  "https://github.com/Mentornoob/QLTV-Updates/releases/download/v2.3.14/QLTV_Setup_v2.3.14.exe.sha256",
-    "source_commit":  "724f13a08d7f59296d13fc2be887fff2507ffe5a",
+    "download_url":  "https://github.com/Mentornoob/QLTV-Updates/releases/download/v2.3.15/QLTV_Setup_v2.3.15.exe",
+    "sha256":  "45cba3ae822baa8de2c6d8326a4c91a0ba5a292d38cc545dd05585c5886484b6",
+    "checksum_url":  "https://github.com/Mentornoob/QLTV-Updates/releases/download/v2.3.15/QLTV_Setup_v2.3.15.exe.sha256",
+    "source_commit":  "b2b810ad8d113974af4ae4149a59199f6a76ab0e",
     "source_dirty":  true,
     "notes":  [
-                  "Sửa trường hạn sử dụng thẻ trong hồ sơ người mượn thành ô chọn ngày.",
-                  "Chỉ hiển thị xác nhận cập nhật khi thông tin hồ sơ thực sự thay đổi.",
-                  "Chuyển mượn/trả bán tự động bằng scanner sang dialog giỏ sách giống luồng camera."
+                  "Cải tiến luồng mượn/trả bằng máy quét, sử dụng dialog giỏ sách thống nhất với luồng camera.",
+                  "Bổ sung tìm người mượn/trả thủ công bằng tên hoặc ID.",
+                  "Tinh chỉnh giao diện hộp thoại chờ mã sách và khu vực trạng thái scanner.",
+                  "Chỉ hiển thị xác nhận cập nhật hồ sơ khi thông tin thực sự thay đổi."
               ]
 }
