@@ -1,16 +1,13 @@
 {
-    "version":  "2.3.15",
-    "title":  "QLTV 2.3.15",
-    "release_date":  "2026-08-07",
-    "download_url":  "https://github.com/Mentornoob/QLTV-Updates/releases/download/v2.3.15/QLTV_Setup_v2.3.15.exe",
-    "sha256":  "45cba3ae822baa8de2c6d8326a4c91a0ba5a292d38cc545dd05585c5886484b6",
-    "checksum_url":  "https://github.com/Mentornoob/QLTV-Updates/releases/download/v2.3.15/QLTV_Setup_v2.3.15.exe.sha256",
-    "source_commit":  "b2b810ad8d113974af4ae4149a59199f6a76ab0e",
+    "version":  "2.3.16",
+    "title":  "QLTV 2.3.16",
+    "release_date":  "2026-08-10",
+    "download_url":  "https://github.com/Mentornoob/QLTV-Updates/releases/download/v2.3.16/QLTV_Setup_v2.3.16.exe",
+    "sha256":  "9293c4a4fd5443f9549245ad2b9c27998d60d66870d024259c88637034478133",
+    "checksum_url":  "https://github.com/Mentornoob/QLTV-Updates/releases/download/v2.3.16/QLTV_Setup_v2.3.16.exe.sha256",
+    "source_commit":  "05792b759acb4d3b52676f2b08841b96772a900d",
     "source_dirty":  true,
     "notes":  [
-                  "Cải tiến luồng mượn/trả bằng máy quét, sử dụng dialog giỏ sách thống nhất với luồng camera.",
-                  "Bổ sung tìm người mượn/trả thủ công bằng tên hoặc ID.",
-                  "Tinh chỉnh giao diện hộp thoại chờ mã sách và khu vực trạng thái scanner.",
-                  "Chỉ hiển thị xác nhận cập nhật hồ sơ khi thông tin thực sự thay đổi."
+                  "Đồng bộ thanh tiêu đề Windows với chế độ tối và cập nhật bộ cài offline."
               ]
 }
