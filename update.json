@@ -3,9 +3,9 @@
     "title":  "QLTV 2.3.16",
     "release_date":  "2026-08-10",
     "download_url":  "https://github.com/Mentornoob/QLTV-Updates/releases/download/v2.3.16/QLTV_Setup_v2.3.16.exe",
-    "sha256":  "d943203704e673a8a9e63aef2480480844433b55003345854a6491db8282916e",
+    "sha256":  "9527f93dc5618423b1dbfb3cb472055439d476f5b7d97c5e48c217341a995d15",
     "checksum_url":  "https://github.com/Mentornoob/QLTV-Updates/releases/download/v2.3.16/QLTV_Setup_v2.3.16.exe.sha256",
-    "source_commit":  "05792b759acb4d3b52676f2b08841b96772a900d",
+    "source_commit":  "dc99870aa37c0e23c3413c3003aa8a367aec4a06",
     "source_dirty":  true,
     "notes":  [
                   "Bổ sung chế độ kết nối cơ sở dữ liệu qua mạng LAN, hỗ trợ máy chủ, máy độc lập và máy trạm tự tìm máy chủ trong cùng mạng.",
