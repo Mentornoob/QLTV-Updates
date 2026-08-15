@@ -1,9 +1,9 @@
 {
     "version":  "2.3.16",
     "title":  "QLTV 2.3.16",
-    "release_date":  "2026-08-11",
+    "release_date":  "2026-08-15",
     "download_url":  "https://github.com/Mentornoob/QLTV-Updates/releases/download/v2.3.16/QLTV_Setup_v2.3.16.exe",
-    "sha256":  "c4a6b1d6b5648f5e5abd23d99f1666fd12b9ef2a8a35ddb485ceac2a9f4cfb43",
+    "sha256":  "6c03e72112c8fcfe7348186827aadff8d8f122704f9befa110a505c4efcfd0fb",
     "checksum_url":  "https://github.com/Mentornoob/QLTV-Updates/releases/download/v2.3.16/QLTV_Setup_v2.3.16.exe.sha256",
     "source_commit":  "dc99870aa37c0e23c3413c3003aa8a367aec4a06",
     "source_dirty":  true,
